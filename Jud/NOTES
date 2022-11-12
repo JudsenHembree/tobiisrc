@@ -1,0 +1,15 @@
+Measurements of the screen of the computer that we used for the pilot
+recordings are:
+
+22'' (diagonal)
+18.75'' (width)
+11.75'' (height)
+
+Resolution is 1680 x 1050.
+
+Markers:
+0: loan_info_low_contrast
+1: personal_info_low_contrast
+2: loan_comparison_high_contrast
+3: personal_info_high_contrast
+4: readmore_low_contrast

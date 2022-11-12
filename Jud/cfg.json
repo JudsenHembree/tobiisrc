@@ -1,0 +1,25 @@
+{
+	"Tobii":{
+		"smooth": false
+	},
+	"General":{
+		"width": 1920,
+		"height": 1080,
+		"hz": 50,
+		"dist": 22.24,
+		"screen": 22,
+		"xtiles": 2,
+		"ytiles": 1
+	},
+	"locations":{
+		"sd": "../../card/test/",
+		"prj": "../../card/test/projects",
+		"in": "../../data/test/",
+		"vid": "../../data/test/",
+		"video": "../../data/test/Recording001.mp4",
+		"plt": "./plots/",
+		"out": "./data/",
+		"raw": "./data/raw/",
+		"rawfile": "./data/raw/Recording001.raw"
+	}
+}

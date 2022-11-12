@@ -1,0 +1,17 @@
+{
+  "w6bemzm": {
+    "id": "../../data/test/",
+    "pr_created": "2022-10-27T17:25:18+0000",
+    "pr_id": "w6bemzm",
+    "pr_info": {
+      "CreationDate": "10/27/2022 17:25:02",
+      "EagleId": "cb232c7d-e459-4e0f-9639-b895d9a68bf8",
+      "Name": "Aruco marker ident"
+    },
+    "recordings": [
+      {
+        "Recording001": "5ylhmq2"
+      }
+    ]
+  }
+}

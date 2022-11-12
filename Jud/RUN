@@ -1,0 +1,9 @@
+# read from SD card
+#python3 ./tobii_grab_data.py convert.json --convert 2
+
+# read from directory structure (copied from SD card)
+# DO WE NEED --convert 2?  --convert 0?
+#python3 ./tobii_grab_data.py convert.json --convert 2 --file=../../card/Camera\ Intrinsics/
+
+# GL visualization (small target)
+./glcam-tobii-aruco.py --vfile=../../data/aruco_lamp/Recording001.mp4 --file=./data/raw/Recording001.raw

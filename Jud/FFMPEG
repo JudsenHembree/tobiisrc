@@ -1,0 +1,1 @@
+ffmpeg -i output.mov -q 0 jepufou.mp4

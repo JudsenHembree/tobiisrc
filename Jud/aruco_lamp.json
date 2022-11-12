@@ -1,0 +1,17 @@
+{
+  "aruco_lamp": {
+    "id": "../../data/aruco_lamp/",
+    "pr_created": "2022-09-29T14:19:38+0000",
+    "pr_id": "aruco_lamp",
+    "pr_info": {
+      "CreationDate": "01/25/2021 17:22:02",
+      "EagleId": "7b5cc103-67ce-4aae-a5fd-732356f8cbcb",
+      "Name": "aruco_lamp"
+    },
+    "recordings": [
+      {
+        "aruco_lamp": "aruco_lamp"
+      }
+    ]
+  }
+}
